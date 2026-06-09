@@ -62,11 +62,11 @@ Todo o contexto da análise é baseado em um prompt especializado para controle 
 
 ### Cenário Normal
 
-![Cenário Normal](assets/Resultado%20IA%201.png)
+![Cenário Normal](images/Resultado%20IA%201.png)
 
 ### Cenário Crítico
 
-![Cenário Crítico](assets/Resultado%20IA%203.png)
+![Cenário Crítico](images/Resultado%20IA%203.png)
 
 ---
 
