@@ -105,7 +105,7 @@ orion-control-ai/
 
 Link do vídeo:
 
-https://youtu.be/J85Pkgf_cFw
+https://youtu.be/o4ZR00uZp4A
 
 ---
 
